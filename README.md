@@ -9,19 +9,11 @@
 
 ### 👨‍💻 About Me
 
-- 💼 **Senior Software Engineer** at  
-  **Polar Cloud** → https://polar3d.com/
-
-- 🔭 Currently working on **MySpendly**  
-  👉 https://myspendly.com
-
-- 🧠 Experienced in designing and maintaining **scalable, production-grade applications** across web, cloud, and infrastructure
-
-- 💬 Ask me about  
-  **Angular, Next.js, Node.js, MongoDB, system design, CI/CD, server deployments, AWS, and cloud architecture**
-
-- 📫 Reach me at  
-  **mominrazashahid0@gmail.com**
+- 💼 Senior Software Engineer at **Polar Cloud** → https://polar3d.com/
+- 🔭 Currently working on **MySpendly** → https://myspendly.com
+- 🧠 Building scalable, production-grade applications across web, cloud, and infrastructure
+- 💬 Ask me about **Angular, Next.js, Node.js, MongoDB, system design, CI/CD, server deployments, and AWS**
+- 📫 Reach me at **mominrazashahid0@gmail.com**
 
 ---
 
